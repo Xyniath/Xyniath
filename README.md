@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey!🙂 I'm Matt
+I'm a Computer Science Student at the University of Lincoln.
 
+Hacking is my hobby
+
+You can reach me at
+Twitter - @Xyniath
 <!--
 **Xyniath/Xyniath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

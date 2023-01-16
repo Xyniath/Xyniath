@@ -1,5 +1,5 @@
 ### Hey!🙂 I'm Matt
-I'm a Computer Science Student at the University of Lincoln.
+I'm currently a Software Engineer for L3Harris
 
 Hacking is my hobby
 

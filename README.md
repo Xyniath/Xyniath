@@ -1,5 +1,5 @@
 ### Hey!🙂 I'm Matt
-I'm currently a Software Engineer for L3Harris
+I'm a Software Engineer in Defense
 
 Hacking is my hobby
 

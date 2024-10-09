@@ -1,10 +1,7 @@
 ### Hey!🙂 I'm Matt
-I'm a Software Engineer in Defense
+I'm a Software Engineer working in defense.
 
 Hacking is my hobby
-
-You can reach me at
-Twitter - @Xyniath
 <!--
 **Xyniath/Xyniath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
